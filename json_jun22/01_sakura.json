@@ -5,7 +5,7 @@
       "select_main_ads":"GOOGLE-ADS",
       "select_backup_ads":"xxxx",
 
-      "main_ads_intertitial":"/22749707315/inter2",
+      "main_ads_intertitial":"/22749707315/inter2/(240, 400)",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_intertitial":"DefaultInterstitial",
@@ -15,9 +15,9 @@
       "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
 
       "interval_intertitial":0,
-      "admob_native": "/22749707315/native01",
-      "admob_native2": "/22749707315/native01",
-      "admob_open": "/22749707315/inter2",
+      "admob_native": "/22749707315/native01/(640, 480)",
+      "admob_native2": "/22749707315/native01/(640, 480)",
+      "admob_open": "/22749707315/inter2/(240, 400)",
 
       "hpk1": "",
       "hpk2": "",
