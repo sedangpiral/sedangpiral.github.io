@@ -17,7 +17,7 @@
       "switch_open_ads":"1",
 
       "switch_banner_natives_ads":"2",
-      "interval_intertitial": 5,
+      "interval_intertitial": 2,
 
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"205147161",
