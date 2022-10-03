@@ -1,18 +1,18 @@
 {
   "Ads": [
     {
-      "select_main_ads": "xxxxxx",
-      "select_backup_ads":"STARTAPP",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"xxxx",
 
-      "main_ads_banner": "xxxxxx",
-      "main_ads_intertitial":"xxxxxx",
-      "main_ads_native":"xxxxxx",
+      "main_ads_banner": "ca-app-pub-2310233460115723/7033145464",
+      "main_ads_intertitial":"ca-app-pub-2310233460115723/8002897615",
+      "main_ads_native":"ca-app-pub-2310233460115723/6345915607",
 
       "backup_ads_native":"xxxxxx",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
 
-      "admob_open":"xxxxxx",
+      "admob_open":"ca-app-pub-2310233460115723/7999824342",
       "open_ads_alien":"xxxxxx",
       "switch_open_ads":"1",
 
