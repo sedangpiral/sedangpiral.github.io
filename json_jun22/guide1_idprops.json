@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
+      "select_backup_ads":"STARTAPP",
 
       "main_ads_banner": "ca-app-pub-2310233460115723/4223849995",
       "main_ads_intertitial":"ca-app-pub-2310233460115723/3944610405",
@@ -20,7 +20,7 @@
       "interval_intertitial": 5,
 
       "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"1a9719f7d",
+      "initialize_sdk_backup_ads":"205171412",
 
 
       "high_paying_keyword_1": "",
