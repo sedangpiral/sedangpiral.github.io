@@ -1,0 +1,35 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+
+      "main_ads_banner": "ca-app-pub-2310233460115723/4223849995",
+      "main_ads_intertitial":"ca-app-pub-2310233460115723/3944610405",
+      "main_ads_natives":"ca-app-pub-2310233460115723/9284604988",
+
+      "backup_ads_natives":"DefaultBanner",
+      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_intertitial":"DefaultInterstitial",
+
+      "open_ads_admob":"ca-app-pub-2310233460115723/2730519514",
+      "open_ads_alien":"xxxxxx",
+      "switch_open_ads":"1",
+
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"205171412",
+
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ]
+}
