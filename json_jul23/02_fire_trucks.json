@@ -4,12 +4,12 @@
       "select_backup_ads":"ADMOB",
       "initialize_sdk_backup_ads":"xxxxx",
       "url_keyboard":"https://tersepona.github.io/keyboard/keyboard.json",
-      
-      "main_ads_banner":"xxxxx",
-      "main_ads_intertitial":"xxxxx",
-      "main_ads_natives":"xxxxx",
-      "main_ads_natives_banner":"xxxxx",
-      "open_ads_admob":"xxxxx",
+
+      "main_ads_banner":"ca-app-pub-2310233460115723/2016398755",
+      "main_ads_intertitial":"ca-app-pub-2310233460115723/7435729479",
+      "main_ads_natives":"ca-app-pub-2310233460115723/1856099730",
+      "main_ads_natives_banner":"ca-app-pub-2310233460115723/3109988570",
+      "open_ads_admob":"ca-app-pub-2310233460115723/9543018068",
 
       "backup_ads_natives":"xxxxx",
       "backup_ads_banner":"xxxxx",
